@@ -1,0 +1,9 @@
+tmp
+bin
+build
+*.zip
+.apt_generated
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
